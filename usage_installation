@@ -20,3 +20,7 @@ make clean
 cd
 sudo dkms add ./rtl8188fu
 sudo dkms install rtl8188fu/1.0
+
+
+
+solution: https://superuser.com/questions/1402078/wi-fi-adapter-install-error-linux-mint 
